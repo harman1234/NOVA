@@ -1,0 +1,59 @@
+.reg-main-cont{
+    position: fixed;
+    top: 200px;
+}
+
+.reg-form{
+    width: 30vw;
+
+    div{
+        display:grid;
+        grid-template-columns: 15% 83%;
+        gap: 13px;
+    }
+}
+
+.reg-cont{
+
+    margin-left: 80px;
+
+    input{
+        background: none;
+        border: none;
+        border-bottom: 0.5px solid black;
+        margin-bottom: 30px;
+        padding-bottom:5px ;
+        font-size: 14px;
+    }
+
+    input:focus{
+        outline:none
+    }
+    button{
+        width: 100%;
+        background: none;
+        border: 0.5px solid black;
+        border-radius: 0px;
+    }
+}
+
+
+@media screen and (max-width:1200px) {
+    .reg-form{width: 60vw;}
+}
+
+@media screen and (max-width:950px) {
+    .reg-form{
+        width: 80vw;
+    }
+    .reg-cont{
+        padding: 0px;
+        width: 100vw;
+
+        button{
+            width: 100%;
+        }
+    }
+
+
+}

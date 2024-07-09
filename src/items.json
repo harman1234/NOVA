@@ -1,0 +1,308 @@
+{
+        "men": {
+    "item1": {
+      "id": "0001",
+      "name": "Urban Explorer T-Shirt",
+      "price": "$31",
+      "discount": "40%",
+      "description": "A high-quality, comfortable cotton T-Shirt perfect for casual wear. This T-Shirt offers great breathability and a classic fit, making it a versatile addition to any wardrobe.",
+      "sizes": ["S", "M", "L", "XL"],
+      "img": "https://images.unsplash.com/photo-1536243298747-ea8874136d64?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8emFyYSUyMG1vZGVsc3xlbnwwfHwwfHx8MA%3D%3D",
+      "category": "Clothes"
+    },
+    "item2": {
+      "id": "0002",
+      "name": "Rugged Denim Jeans",
+      "price": "$50",
+      "discount": "20%",
+      "description": "Stylish and durable denim jeans that provide a comfortable fit and timeless look. Perfect for casual and semi-formal occasions.",
+      "sizes": ["32", "34", "36", "38"],
+      "img": "https://images.unsplash.com/photo-1519764622345-23439dd774f7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D",
+      "category": "Clothes"
+    },
+    "item3": {
+      "id": "0003",
+      "name": "Rebel Leather Jacket",
+      "price": "$120",
+      "discount": "10%",
+      "description": "A premium leather jacket that adds a rugged and stylish look to your outfit. It's perfect for chilly weather and adds a touch of sophistication.",
+      "sizes": ["M", "L", "XL", "XXL"],
+      "img": "https://images.unsplash.com/photo-1492288991661-058aa541ff43?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+      "category": "Clothes"
+    },
+    "item4": {
+      "id": "0004",
+      "name": "Starlight Sneakers",
+      "price": "$75",
+      "discount": "15%",
+      "description": "Comfortable and stylish sneakers designed for everyday wear. They offer excellent support and cushioning, making them ideal for both casual and athletic activities.",
+      "sizes": ["8", "9", "10", "11"],
+      "img": "https://images.unsplash.com/photo-1620834767726-61b1986287ff?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8",
+      "category": "Shoes"
+    },
+    "item5": {
+      "id": "0005",
+      "name": "Executive Formal Shoes",
+      "price": "$90",
+      "discount": "25%",
+      "description": "Elegant formal shoes made from high-quality leather. These shoes are perfect for business meetings, formal events, and any occasion where you need to look sharp.",
+      "sizes": ["9", "10", "11", "12"],
+      "img": "https://images.unsplash.com/photo-1516914943479-89db7d9ae7f2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+      "category": "Shoes"
+    },
+    "item6": {
+      "id": "0006",
+      "name": "Mountain Trail Boots",
+      "price": "$110",
+      "discount": "30%",
+      "description": "Rugged and durable boots designed for hiking and outdoor adventures. These boots provide excellent traction and support for challenging terrains.",
+      "sizes": ["9", "10", "11", "12"],
+      "img": "https://images.unsplash.com/photo-1610108703114-a48b1e7831c0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+      "category": "Boots"
+    },
+    "item7": {
+      "id": "0007",
+      "name": "Vintage Aviator Sunglasses",
+      "price": "$45",
+      "discount": "10%",
+      "description": "Classic aviator sunglasses with a vintage touch. These sunglasses offer UV protection and add a stylish flair to your look.",
+      "sizes": ["One Size"],
+      "img": "https://images.unsplash.com/photo-1620834767726-61b1986287ff?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8",
+      "category": "Accessories"
+    },
+    "item8": {
+      "id": "0008",
+      "name": "Ocean Breeze Cologne",
+      "price": "$55",
+      "discount": "20%",
+      "description": "A refreshing cologne with notes of citrus and marine scents. Perfect for daily wear and leaving a lasting impression.",
+      "sizes": ["50ml", "100ml"],
+      "img": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+      "category": "Perfume"
+    },
+    "item9": {
+      "id": "0009",
+      "name": "Beach Vibes Swim Shorts",
+      "price": "$35",
+      "discount": "30%",
+      "description": "Stylish and comfortable swim shorts made from quick-drying fabric. Perfect for a day at the beach or relaxing by the poolside.",
+      "sizes": ["S", "M", "L", "XL"],
+      "img": "https://images.unsplash.com/photo-1610108703114-a48b1e7831c0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+      "category": "Swimwear"
+    },
+    "item10": {
+      "id": "0010",
+      "name": "Explorer Backpack",
+      "price": "$80",
+      "discount": "15%",
+      "description": "A versatile and durable backpack designed for outdoor adventures. It features multiple compartments for organizing gear and a comfortable design for long hikes.",
+      "sizes": ["One Size"],
+      "img": "https://images.unsplash.com/photo-1542838775-551ba96569a8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fG1lbiUyMGJvb3RzfGVufDB8MXwwfHx8MA%3D%3D",
+      "category": "Accessories"
+    }
+  },
+            "women": {
+                "item1": {
+                    "id": "0001",
+                    "name": "Bohemian Floral Dress",
+                    "price": "$65",
+                    "discount": "20%",
+                    "description": "A flowing bohemian dress with a floral pattern. Perfect for sunny days and casual outings, this dress offers comfort and style.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/2041623/pexels-photo-2041623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item2": {
+                    "id": "0002",
+                    "name": "Classic Denim Jacket",
+                    "price": "$85",
+                    "discount": "15%",
+                    "description": "A timeless denim jacket that adds a casual-chic vibe to any outfit. It features a vintage wash and is perfect for layering.",
+                    "sizes": ["S", "M", "L", "XL"],
+                    "img": "https://images.pexels.com/photos/3980351/pexels-photo-3980351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item3": {
+                    "id": "0003",
+                    "name": "Elegant Lace Blouse",
+                    "price": "$45",
+                    "discount": "30%",
+                    "description": "A delicate lace blouse that adds a touch of elegance to your wardrobe. It's perfect for both formal occasions and casual outings.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/4333185/pexels-photo-4333185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item4": {
+                    "id": "0004",
+                    "name": "Studded Leather Boots",
+                    "price": "$120",
+                    "discount": "10%",
+                    "description": "Edgy and stylish leather boots with studded accents. These boots are perfect for adding a rebellious flair to your outfit.",
+                    "sizes": ["6", "7", "8", "9"],
+                    "img": "https://images.pexels.com/photos/3575569/pexels-photo-3575569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Boots"
+                },
+                "item5": {
+                    "id": "0005",
+                    "name": "Chic Suede Pumps",
+                    "price": "$95",
+                    "discount": "25%",
+                    "description": "Stylish suede pumps that add sophistication to any ensemble. These shoes feature a comfortable heel height, making them suitable for day-to-night wear.",
+                    "sizes": ["5", "6", "7", "8"],
+                    "img": "https://images.pexels.com/photos/2776021/pexels-photo-2776021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Shoes"
+                },
+                "item6": {
+                    "id": "0006",
+                    "name": "Flowing Maxi Skirt",
+                    "price": "$55",
+                    "discount": "20%",
+                    "description": "A lightweight and flowing maxi skirt perfect for summer days. It features a bohemian-inspired print and elastic waistband for comfort.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item7": {
+                    "id": "0007",
+                    "name": "Rose Petal Perfume",
+                    "price": "$80",
+                    "discount": "15%",
+                    "description": "A luxurious perfume with a floral scent reminiscent of fresh rose petals. Ideal for special occasions and evenings out.",
+                    "sizes": ["50ml", "100ml"],
+                    "img": "https://images.pexels.com/photos/2142183/pexels-photo-2142183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Perfume"
+                },
+                "item8": {
+                    "id": "0008",
+                    "name": "Structured Trench Coat",
+                    "price": "$150",
+                    "discount": "10%",
+                    "description": "A timeless trench coat with a structured silhouette. Perfect for layering over both casual and formal attire during cooler seasons.",
+                    "sizes": ["S", "M", "L", "XL"],
+                    "img": "https://images.pexels.com/photos/970953/pexels-photo-970953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item9": {
+                    "id": "0009",
+                    "name": "Vintage Cat-Eye Sunglasses",
+                    "price": "$40",
+                    "discount": "20%",
+                    "description": "Classic cat-eye sunglasses with a vintage-inspired design. These sunglasses add a touch of glamour to your look while offering UV protection.",
+                    "sizes": ["One Size"],
+                    "img": "https://images.pexels.com/photos/1416592/pexels-photo-1416592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Accessories"
+                },
+                "item10": {
+                    "id": "0010",
+                    "name": "Silk Wrap Dress",
+                    "price": "$120",
+                    "discount": "10%",
+                    "description": "An elegant silk wrap dress that drapes beautifully. Perfect for formal events and cocktail parties, this dress exudes sophistication.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/21273/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item11": {
+                    "id": "0011",
+                    "name": "Luxe Cashmere Sweater",
+                    "price": "$95",
+                    "discount": "15%",
+                    "description": "A luxurious cashmere sweater that offers warmth and style. It features a soft texture and is perfect for layering in colder weather.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/711292/pexels-photo-711292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item12": {
+                    "id": "0012",
+                    "name": "Gardenia Blossom Perfume",
+                    "price": "$70",
+                    "discount": "20%",
+                    "description": "A captivating perfume with notes of gardenia blossom and jasmine. It's perfect for everyday wear and adds a touch of floral elegance.",
+                    "sizes": ["50ml", "100ml"],
+                    "img": "https://images.pexels.com/photos/2346152/pexels-photo-2346152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Perfume"
+                },
+                "item13": {
+                    "id": "0013",
+                    "name": "Tailored Wide-Leg Pants",
+                    "price": "$65",
+                    "discount": "15%",
+                    "description": "Chic and comfortable wide-leg pants tailored for a flattering fit. These pants are versatile and perfect for both casual and workwear.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/4003625/pexels-photo-4003625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item14": {
+                    "id": "0014",
+                    "name": "Sleek Patent Heels",
+                    "price": "$85",
+                    "discount": "10%",
+                    "description": "Glossy patent leather heels that add sophistication to any outfit. These heels are perfect for formal occasions and evening events.",
+                    "sizes": ["5", "6", "7", "8"],
+                    "img": "https://images.pexels.com/photos/1531624/pexels-photo-1531624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Shoes"
+                },
+                "item15": {
+                    "id": "0015",
+                    "name": "Chiffon Floral Blouse",
+                    "price": "$55",
+                    "discount": "20%",
+                    "description": "A delicate chiffon blouse with a floral print. It features a flattering silhouette and is perfect for both casual and semi-formal occasions.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/3762074/pexels-photo-3762074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item16": {
+                    "id": "0016",
+                    "name": "Cascading Ruffle Dress",
+                    "price": "$95",
+                    "discount": "15%",
+                    "description": "An elegant dress with cascading ruffles and a feminine silhouette. Perfect for special occasions and evening events.",
+                    "sizes": ["S", "M", "L"],
+                    "img": "https://images.pexels.com/photos/3915750/pexels-photo-3915750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item17": {
+                    "id": "0017",
+                    "name": "Velvet Ankle Boots",
+                    "price": "$110",
+                    "discount": "10%",
+                    "description": "Luxurious velvet ankle boots that add a touch of glamour to any outfit. These boots are perfect for evening wear and special occasions.",
+                    "sizes": ["6", "7", "8", "9"],
+                    "img": "https://images.pexels.com/photos/3996607/pexels-photo-3996607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Boots"
+                },
+                "item18": {
+                    "id": "0018",
+                    "name": "Radiant Rose Perfume",
+                    "price": "$75",
+                    "discount": "20%",
+                    "description": "A captivating perfume with a blend of rose and jasmine notes. Perfect for everyday wear and special occasions alike.",
+                    "sizes": ["50ml", "100ml"],
+                    "img": "https://images.pexels.com/photos/2142183/pexels-photo-2142183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Perfume"
+                },
+                "item19": {
+                    "id": "0019",
+                    "name": "Structured Wool Coat",
+                    "price": "$180",
+                    "discount": "15%",
+                    "description": "A sophisticated wool coat with a structured silhouette. Perfect for keeping warm while maintaining a stylish appearance during colder seasons.",
+                    "sizes": ["S", "M", "L", "XL"],
+                    "img": "https://images.pexels.com/photos/461438/pexels-photo-461438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Clothes"
+                },
+                "item20": {
+                    "id": "0020",
+                    "name": "Crystal Drop Earrings",
+                    "price": "$50",
+                    "discount": "10%",
+                    "description": "Elegant crystal drop earrings that add sparkle to any outfit. Perfect for formal events and adding a touch of glamour.",
+                    "sizes": ["One Size"],
+                    "img": "https://images.pexels.com/photos/1234502/pexels-photo-1234502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                    "category": "Accessories"
+                }
+            }
+}
+        
+    

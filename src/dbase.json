@@ -1,0 +1,21 @@
+{
+    "slide1":{
+        "id":"1",
+        "color":"white",
+        "source":"https://images.pexels.com/photos/3459967/pexels-photo-3459967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    "slide2":{
+        
+        "id":"2",
+        "color":"black",
+        "source":"https://images.pexels.com/photos/7871181/pexels-photo-7871181.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    "slide3":{
+        "color":"white",
+        "source":"https://images.pexels.com/photos/735552/pexels-photo-735552.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    "slide4":{
+        "color":"white",
+        "source":"https://images.pexels.com/photos/1006994/pexels-photo-1006994.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+}

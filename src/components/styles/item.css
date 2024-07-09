@@ -1,0 +1,125 @@
+.items-wrapper{
+    padding-top: 200px;
+    width: 100vw;
+}
+
+.items-main-cont{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 45%;
+    gap: 5%;
+}
+
+.items-img-cont{
+    overflow: hidden;
+    justify-self: end;
+    width: 70%;
+
+    img{
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+}
+
+
+.items-descp-cont{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.descp-main-cont{
+    width: 55%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid black;
+}
+
+.description-first{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    border-bottom: 0.5px solid black;
+    
+    .descp-first-cont{
+        
+        p{
+            color: black;
+            .item-name{font-size: 20px;font-weight: 400;}
+            span:nth-child(n+2){font-size: 14px;margin-right: 10px;font-weight: 200;}
+        }
+    }
+    .descp-second{
+        p{font-size: 13px;}
+        span{font-size: 12px;text-decoration: underline;cursor: pointer;}
+    }
+
+   
+}
+
+.description-second{
+    
+    h5{font-size: 16px;font-weight: 400;}
+    .sizes{
+        display: grid;
+        grid-template-columns: repeat(auto-fit,minmax(100px,0.5fr));
+        gap:10px;
+        span{
+            border: 0.5px solid black;
+            text-align: center;
+            padding: 3px 0px;
+        }
+    }
+
+
+}
+
+.description-btn{
+
+    .add-btn{
+        width: 100%;
+        background: #000;
+        color: white;
+        border-radius: 0px;
+        padding: 2px 0px;
+        font-size: 13px;
+    }
+}
+
+
+@media screen and (max-width:1200px){
+    .descp-main-cont{
+        width: 90%;
+    }
+    .items-img-cont{
+        width: 97%;
+    }
+}
+
+@media screen and (max-width:1050px){
+    .items-wrapper{padding-top: 0%;}
+    .items-main-cont{
+        grid-template-columns: 100%;
+        gap: 0px;
+    }
+    .items-img-cont{
+        height: 80vh;
+        width: 100%;
+
+        img{
+            position: fixed;
+            z-index: -2;
+            height: 100vh;
+            width: 100vw;
+            object-fit: cover;
+        }
+    }
+
+    .descp-main-cont{
+        width: 100%;
+        background: white;
+    }
+   
+}

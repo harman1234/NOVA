@@ -1,0 +1,23 @@
+.slidecont{
+    height: 100vh;
+    overflow: hidden;
+}
+.ochild{
+    position: fixed;
+    top: 100%;
+    width: 100%;
+    transition: top 0.2s ease-out;
+
+}
+.ochild:nth-child(1){
+    top: 0%;
+
+}
+
+.ochild img{
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+
+    
+}
